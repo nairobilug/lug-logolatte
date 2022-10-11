@@ -19,7 +19,6 @@ Some notes on colored/dark backgrounds
 
  - The fill can be any color as long as it&#39;s brighter than the background
  
- ![preview-1](./preview-color-1.png)
  ![](https://user-images.githubusercontent.com/49595512/194861358-01ca4538-a51b-4ba3-a167-7fcff1c8bb66.png)
  - The outline is necessary on dark mode. It can be any color and doesn't have to match the fill.
  
