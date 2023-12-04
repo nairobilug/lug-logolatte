@@ -8,6 +8,8 @@ A logo for the LUG based on the [FSF's 30th anniversary](https://www.fsf.org/blo
 - Font Family: [Lato](https://fonts.google.com/specimen/Lato)
 - [SVG source](./source.svg)
 - Software: [Inkscape](https://inkscape.org/)
+- [Embroidery version](./GNU30NairobiLUGInkStitch.svg)
+- Embroidery Software: [Ink/Stitch](https://inkstitch.org)
 
 ## Gallery 
 
@@ -27,3 +29,7 @@ Some notes on colored/dark backgrounds
  - Inverting the colors does not work
 
  ![inverted](./rect995.png)
+ 
+ - Embroidery Preview
+
+ ![preview-embroidery](./preview-embroidery.png)
